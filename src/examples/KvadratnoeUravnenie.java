@@ -1,11 +1,7 @@
 package examples;
 
 /**
- * Created with IntelliJ IDEA.
- * User: julia.kotenko
- * Date: 29.05.13
- * Time: 19:20
- * To change this template use File | Settings | File Templates.
+ * User: gibppo
  */
 public class KvadratnoeUravnenie {
 
