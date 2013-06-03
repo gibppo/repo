@@ -1,7 +1,5 @@
 package examples;
 
-import examples.KvadratnoeUravnenie;
-
 public class Main {
 
     public static void main(String[] args) {
@@ -10,7 +8,7 @@ public class Main {
 
         KvadratnoeUravnenie kv = new KvadratnoeUravnenie();
 
-        double res[] = kv.returnKoren(5,6,7);
+        double res[] = kv.returnKoren(0, -4, 4);
 
         System.out.println(res[0]);
         System.out.println(res[1]);

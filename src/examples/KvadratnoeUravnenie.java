@@ -17,12 +17,12 @@ public class KvadratnoeUravnenie {
 
         if (d>0) {
 
-            double result[] = {x1, x2};
+            result = new double[]{x1, x2};
         }     else  if (d == 0) {
 
-            double result[] = {x1};
+            result = new double[]{x1};
         }else {
-            double result[] = {};
+            result = new double[]{};
         }
         return result;
     }
